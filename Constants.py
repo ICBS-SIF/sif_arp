@@ -1,0 +1,2 @@
+TICK_BID = "BID"
+TICK_ASK = "ASK"
